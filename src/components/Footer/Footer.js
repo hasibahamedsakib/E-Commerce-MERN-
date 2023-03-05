@@ -20,7 +20,7 @@ const Footer = () => {
           </Link>
         </div>
         <span className="text-white copyright-text text-manrope fs-14 fw-3">
-          &copy; 2023, All Rights Reserved by Hasib Ahamed &hearts;{" "}
+          &copy; 2023, All Rights Reserved by HpiStore &hearts;{" "}
         </span>
       </div>
     </footer>
